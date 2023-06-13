@@ -5,7 +5,8 @@ Implementing the following processor shown in the below image
 
 #Part 2
 ![image](https://github.com/qazihamidullah/Simple_Processor/assets/105585212/0571bc64-1a5a-44f1-aa9b-7e1d554fe233)
-Thhis is the extension of the previous processor. In this part we will implement the circuit depicted in Figure 4, in which a memory module and counter are connected to the processor. The counter is used to read the contents of successive locations in the memory, and
+
+This is the extension of the previous processor. In this part we will implement the circuit depicted in Figure 4, in which a memory module and counter are connected to the processor. The counter is used to read the contents of successive locations in the memory, and
 this data is provided to the processor as a stream of instructions. To simplify the design and testing of this circuit
 we have used separate clock signals, PClock and MClock, for the processor and memory.
 
